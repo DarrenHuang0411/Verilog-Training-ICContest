@@ -1,5 +1,7 @@
 # Verilog-ICContest
-ICContest (Update Continuously)
+
+> [!TIP]
+> This page will be updated continuously.
 
 # Environment
 1. ICC version:
@@ -11,6 +13,5 @@ ICContest (Update Continuously)
 |Gate Level  | ncverilog        |
 
 2. Quartus version:
-
 
 # Readme Link:
